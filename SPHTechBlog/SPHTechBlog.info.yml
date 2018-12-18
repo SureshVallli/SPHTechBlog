@@ -1,0 +1,51 @@
+name: SPHTechBlog
+type: profile
+description: 'Build a custom site without pre-configured functionality.Suitable for SPHTechBlog users.'
+# version: VERSION
+# core: 8.x
+install:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+  - author
+  - blog
+themes:
+  - bartik
+  - seven
+
+# Information added by Drupal.org 
+version: '8.6.x'
+core: '8.6.x'
+project: 'drupal'

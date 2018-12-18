@@ -1,0 +1,14 @@
+name: Blog
+description: Custom content type configuration for SPHTechBlog
+package: SPHTechBlog
+type: module
+core: 8.x
+dependencies:
+  - file
+  - image
+  - menu_ui
+  - node
+  - path
+  - taxonomy
+  - text
+  - user
